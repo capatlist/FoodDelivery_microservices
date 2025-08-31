@@ -1,0 +1,7 @@
+/Users/kshitijverma/Food-Delivery_System/user-service/src/main/java/com/fooddelivery/UserServiceApplication.java
+/Users/kshitijverma/Food-Delivery_System/user-service/src/main/java/com/fooddelivery/controller/UserController.java
+/Users/kshitijverma/Food-Delivery_System/user-service/src/main/java/com/fooddelivery/dto/CreateUserRequestDTO.java
+/Users/kshitijverma/Food-Delivery_System/user-service/src/main/java/com/fooddelivery/dto/UserDTO.java
+/Users/kshitijverma/Food-Delivery_System/user-service/src/main/java/com/fooddelivery/model/User.java
+/Users/kshitijverma/Food-Delivery_System/user-service/src/main/java/com/fooddelivery/repository/UserRepository.java
+/Users/kshitijverma/Food-Delivery_System/user-service/src/main/java/com/fooddelivery/service/UserService.java
